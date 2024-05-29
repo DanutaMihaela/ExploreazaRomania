@@ -64,6 +64,8 @@
     @endforeach
 </div>
 @include('partials.pagination')
+
+
 <style>
     .accordion-item{
         border: 1px solid #2a5b3e9e;
